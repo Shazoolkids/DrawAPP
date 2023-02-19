@@ -1,0 +1,19 @@
+body {
+  background-color: plum;
+}
+#score 
+{
+  font-size: 45px;
+  float:right;
+  margin: 30px;
+}
+#timer
+{
+  font-size: 45px;
+  float:left;
+  margin: 30px;
+}
+#sketch_to_be_drawn 
+{
+color:salmon;
+}
